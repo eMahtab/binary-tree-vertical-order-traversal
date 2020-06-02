@@ -4,6 +4,9 @@
 Given a binary tree, return the vertical order traversal of its nodes' values. (ie, from top to bottom, column by column).
 
 #### Very Important 😯: If two nodes are in the same row and column, the order should be from left to right.
+
+![Binary Tree Vertical Order Traversal](vertical-order-traversal.JPG?raw=true "Binary Tree Vertical Order Traversal")
+
 ```
 Examples 1:
 
